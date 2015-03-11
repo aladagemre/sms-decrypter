@@ -1,7 +1,9 @@
 sms-decrypter
 =============
 
-Encrypted SMS Backup Decrypter
+Decrypter for Encrypted SMS Backup app.
+
+
 [Install Encrypted SMS Backup Android App on Google Play][play-link]
 
 This is a simple GUI for decrypting SMS files which are encrypted by Encrypted SMS Backup. It uses jasypt encryption library.
